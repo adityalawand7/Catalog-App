@@ -1,0 +1,12 @@
+com.example.flutter_catalog.app-jetified-window-1.0.0-beta04-0 C:\Users\lawan\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+com.example.flutter_catalog.app-jetified-annotation-experimental-1.1.0-1 C:\Users\lawan\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.flutter_catalog.app-core-1.6.0-2 C:\Users\lawan\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+com.example.flutter_catalog.app-jetified-window-java-1.0.0-beta04-3 C:\Users\lawan\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.flutter_catalog.app-debug-4 D:\Flutter Projects\Tutorials_30Days\flutter_catalog\android\app\src\debug\res
+com.example.flutter_catalog.app-main-5 D:\Flutter Projects\Tutorials_30Days\flutter_catalog\android\app\src\main\res
+com.example.flutter_catalog.app-pngs-6 D:\Flutter Projects\Tutorials_30Days\flutter_catalog\build\app\generated\res\pngs\debug
+com.example.flutter_catalog.app-resValues-7 D:\Flutter Projects\Tutorials_30Days\flutter_catalog\build\app\generated\res\resValues\debug
+com.example.flutter_catalog.app-rs-8 D:\Flutter Projects\Tutorials_30Days\flutter_catalog\build\app\generated\res\rs\debug
+com.example.flutter_catalog.app-mergeDebugResources-9 D:\Flutter Projects\Tutorials_30Days\flutter_catalog\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.flutter_catalog.app-mergeDebugResources-10 D:\Flutter Projects\Tutorials_30Days\flutter_catalog\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.flutter_catalog.app-merged_res-11 D:\Flutter Projects\Tutorials_30Days\flutter_catalog\build\app\intermediates\merged_res\debug
