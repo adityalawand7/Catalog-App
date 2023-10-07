@@ -93,4 +93,7 @@ class Item {
       color.hashCode ^
       image.hashCode;
   }
+  demo(){
+    print("working");
+  }
 }
