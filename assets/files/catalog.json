@@ -25,14 +25,6 @@
             "image": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP825/macbookair.png"
         },
         {
-            "id": 4,
-            "name": "Playstation 5",
-            "desc": "Sony Playstation 5th generation",
-            "price": 500,
-            "color": "#544ee4",
-            "image": "https://i.gadgets360cdn.com/products/large/sony-ps5-649x800-1592631239.jpeg?downsize=*:360"
-        },
-        {
             "id": 5,
             "name": "Airpods Pro",
             "desc": "Apple Aipods Pro 1st generation",
