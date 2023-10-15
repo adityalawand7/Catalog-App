@@ -18,14 +18,13 @@ class CatalogList extends StatelessWidget {
         return InkWell(
             onTap: () {
               Navigator.push(
-                  context,
-                  MaterialPageRoute(
-                    builder: (context) => HomeDetailPage(catalog: catalog),
-                  ),
-                );
+                context,
+                MaterialPageRoute(
+                  builder: (context) => HomeDetailPage(catalog: catalog),
+                ),
+              );
             },
-            child: CatalogItem(catalog: catalog)
-        );
+            child: CatalogItem(catalog: catalog));
       },
     );
   }
@@ -39,7 +38,10 @@ class CatalogItem extends StatelessWidget {
     return VxBox(
         child: Row(
       children: [
-        CatalogImage(image: catalog.image),
+        Hero(
+          tag: Key(catalog.id.toString()),
+          child: CatalogImage(image: catalog.image)
+        ),
         Expanded(
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
