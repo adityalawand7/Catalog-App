@@ -21,8 +21,8 @@
 
 ## Screenshots
 
-![Screenshot 1](link_to_screenshot_1.png)
-![Screenshot 2](link_to_screenshot_2.png)
+![Screenshot 1](https://github.com/adityalawand7/Catalog-App/blob/master/App%20Images/image1.jpg)
+![Screenshot 2](https://github.com/adityalawand7/Catalog-App/blob/master/App%20Images/image2.jpg)
 
 ## Technologies Used
 
