@@ -36,7 +36,7 @@ Contributions to the Catalog App project are welcome! If you'd like to contribut
 
 ## Future Plans
 
-I have exciting plans for the Catalog App, including:
+I have exciting plans for the Catalog App, including :
 
 - Adding user authentication for personalized experiences.
 - Expanding the product catalog with more electronic items.
