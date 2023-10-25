@@ -1,4 +1,4 @@
-#Sun Oct 22 21:24:53 IST 2023
+#Wed Oct 25 10:09:07 IST 2023
 base.0=D\:\\Flutter Projects\\Tutorials_30Days\\flutter_catalog\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
